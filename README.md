@@ -1,2 +1,4 @@
 # hello-world
-Instigation about project management tools and dsashboards
+Investigation about project management tools and dsashboards
+
+Instigation should read investigation. amendment added
